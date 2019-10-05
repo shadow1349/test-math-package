@@ -1,6 +1,6 @@
 {
   "name": "@shadow1349/test-math-package",
-  "version": "1.0.0",
+  "version": "2.0.2",
   "description": "This is a package to test the GitHub package Registry",
   "main": "dist/index.js",
   "scripts": {
@@ -13,7 +13,7 @@
     "url": "git://github.com/shadow1349/test-math-package.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com"
   },
   "devDependencies": {
     "@types/node": "^12.7.11",
